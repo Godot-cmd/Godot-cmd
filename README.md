@@ -30,7 +30,7 @@ _Skilled in UFT, Java, Selenium, Playwright, TestNG, Allure, Appium, WinAppDrive
 
 ## 📌 Projects
 
-📌 **[GitHub Portfolio: WinAppDriver + Playwright + Java](#)**  
+📌 **[GitHub Portfolio: WinAppDriver + Playwright + Java](https://github.com/Godot-cmd/GitHub-Portfolio-Playwright-Java)**  
 _Showcasing my previous testing projects using WinAppDriver, Playwright and Java._
 
 ---
