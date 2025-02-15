@@ -30,11 +30,8 @@ _Skilled in UFT, Java, Selenium, Playwright, TestNG, Allure, Appium, WinAppDrive
 
 ## 📌 Projects
 
-📌 **[Desktop Banking App Automation](#)**  
-_Automated testing for a banking application using WebView2 & Java._
-
-📌 **[GitHub Portfolio: Playwright + Java](#)**  
-_Showcasing my previous testing projects using Playwright and Java._
+📌 **[GitHub Portfolio: WinAppDriver + Playwright + Java](#)**  
+_Showcasing my previous testing projects using WinAppDriver, Playwright and Java._
 
 ---
 
