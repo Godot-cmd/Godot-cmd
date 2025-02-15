@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Mihail Pisarenco
+# 👋 Hi, I'm Mihail
 
 **💼 Quality Assurance Automation Engineer**  
 _Skilled in UFT, Java, Selenium, Playwright, TestNG, Allure, Appium, WinAppDriver_
