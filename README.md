@@ -1,4 +1,4 @@
-![GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Mihail's+GitHub)
+
 
 # 👋 Hi, I'm Mihail Pisarenco
 
@@ -18,7 +18,7 @@ _Skilled in UFT, Java, Selenium, Playwright, TestNG, Allure, Appium, WinAppDrive
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Flordicon.com%2Ficons%2Fwired%2Fflat%2F1323-java-code-language&psig=AOvVaw3N5LEjRCmBDLnrvku5qoQc&ust=1739707633347000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCKro7SxYsDFQAAAAAdAAAAABAZ))
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white)
@@ -48,8 +48,8 @@ _Showcasing my previous testing projects using Playwright and Java._
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihail-pisarenco-239572245/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godot-cmd)
 
 ---
 
