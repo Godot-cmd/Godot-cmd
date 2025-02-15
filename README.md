@@ -11,7 +11,6 @@ _Skilled in UFT, Java, Selenium, Playwright, TestNG, Allure, Appium, WinAppDrive
 
 🔹 Passionate about test automation and ensuring software quality.  
 🔹 Experienced in functional, UI, and API testing across web and desktop applications.  
-🔹 Currently working on a portfolio showcasing test automation for a desktop banking app using WebView2.  
 🔹 Exploring ways to enhance automation with dynamic reporting and integrations.  
 
 ---
