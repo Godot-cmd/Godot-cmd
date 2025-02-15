@@ -18,7 +18,7 @@ _Skilled in UFT, Java, Selenium, Playwright, TestNG, Allure, Appium, WinAppDrive
 
 ## 🛠 Tech Stack
 
-![Java](https://media.lordicon.com/icons/wired/flat/1323-java-code-language.gif)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white)
